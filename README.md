@@ -8,7 +8,7 @@
     <img src="https://images-ext-2.discordapp.net/external/_L-BF6LDZ6x0PPbx4ABpZqm7SpEW6F2VQskVss3Rpro/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1119895957648179201/629ee93cd5140ad6809b4cc6c4912096.png?width=466&height=466" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">Lofi Radio</h3>
+  <h3 align="center">Sia Radio</h3>
 
   <p align="center">
     It is a discord music bot which can play lo-fi song 24/7 &  more functions of lofi radio bot
